@@ -1,0 +1,15 @@
+* {
+    line-height: 1.5 !important;
+}
+#content li {
+    margin-bottom: 0.2rem;
+}
+#content h2 {
+    margin: 2rem 0 0.8rem !important;
+    border-bottom: 1px solid #ccc;
+}
+#content .avatar>img {
+    border-radius: 0 !important;
+    height: initial !important;
+    width: 150px !important;
+}
