@@ -15,7 +15,7 @@ title = "Index"
 
 ## 教育背景
 
-**英国格拉斯哥大学** [成绩单](/pdf/研究生期间成绩单.pdf)
+**英国格拉斯哥大学** [成绩单](/pdf/研究生期间成绩单20220604.pdf)
 
 <small>研究生</small> <small>2021.01-2022.01</small> <small>Glasgow, UK</small>
 
